@@ -6,4 +6,4 @@ Roles
 - Ivan (shadow-develop) takes the role "Shuffler"  
 - Tashev (xaoccc) takes the role "Styler"  
 \
-aaDSADASDAS
+aaDSA
