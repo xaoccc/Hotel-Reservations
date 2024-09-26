@@ -7,6 +7,7 @@ let reservation = {
     phone: null,
     email: null
 };
+
 const searchContent = document.querySelector('.search-form-content');
 const thankYouContent = document.querySelector('.thank-you-content');
 const searchFormButton = document.querySelector('#search-form-button');
@@ -50,3 +51,4 @@ newReservationButton.addEventListener('click', (e) => {
         email: null
     };
 });
+
