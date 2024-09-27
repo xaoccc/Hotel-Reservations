@@ -233,6 +233,11 @@ form {
     padding: 50px 35px;
 }
 
+
+.thank-you-content {
+    display: none;
+}
+
 form * {
     font-family: 'Poppins', sans-serif;
     color: #ffffff;
