@@ -87,5 +87,5 @@ function findRoom(e) {
     const roomInfo = e.target.parentElement.parentElement.querySelector('.selected-room h4').textContent;
     reservation.roomType = roomInfo;
     console.log(reservation);
-    changeContent('guest-details-form-content');
+    // changeContent('guest-details-form-content');
 }
